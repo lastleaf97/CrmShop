@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CrmUi.CashBoxView">
+    <Position X="0.5" Y="4.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAQAAAAAAAAAAIEAAAAAAAAAAAAAAAAAQgAA=</HashCode>
+      <FileName>CashBoxView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CrmUi.Catalog&lt;T&gt;">
+    <Position X="14.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAQAAAAAAAAAcAAAAAAAAAAAACA=</HashCode>
+      <FileName>Catalog.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CrmUi.CustomerForm">
+    <Position X="14.25" Y="3.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAACAAABAAAACAAAACAAAIQAAAEAAAAAAAAAA=</HashCode>
+      <FileName>CustomerForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CrmUi.Login">
+    <Position X="20.5" Y="3" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAACAAABAAAACAAAACAAAIQAAAEAAAAAAAAAA=</HashCode>
+      <FileName>Login.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CrmUi.Main">
+    <Position X="5.25" Y="1.25" Width="3" />
+    <TypeIdentifier>
+      <HashCode>I4QAAAEJASBYABAAYAyAABAKEAAIAAJAYEBAAAgQAAQ=</HashCode>
+      <FileName>Main.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CrmUi.ModelForm">
+    <Position X="8.5" Y="2.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACEAABAAAACAAQACAAAIQAACAAAAAAkIAAA=</HashCode>
+      <FileName>ModelForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CrmUi.ProductForm">
+    <Position X="17.25" Y="2" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>ACACAAAAACAAABAAAACAAAACAAAIQAACEAAAAAAAAAA=</HashCode>
+      <FileName>ProductForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CrmUi.Program">
+    <Position X="23.25" Y="3" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CrmUi.SellerForm">
+    <Position X="11.5" Y="3.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAAAACAAAIQAAAEAAAAAAACAA=</HashCode>
+      <FileName>SellerForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CrmUi.Properties.Resources">
+    <Position X="3" Y="4.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CrmUi.Properties.Settings">
+    <Position X="23.25" Y="4.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Object">
+    <Position X="1.25" Y="1.25" Width="3" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Windows.Forms.Form" Collapsed="true">
+    <Position X="15.25" Y="7.5" Width="2" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="CrmUi.Catalog&lt;T&gt;">
+    <Position X="17" Y="8.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAEAAAACAAAACAAAwAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
